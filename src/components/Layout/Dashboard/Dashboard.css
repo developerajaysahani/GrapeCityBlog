@@ -1,0 +1,104 @@
+.container {
+  position: relative;
+  display: inline-block;
+}
+.button {
+  padding: 0;
+  width: 50px;
+  border: 0;
+  background-color: #fff;
+  color: #333;
+  cursor: pointer;
+  outline: 0;
+  font-size: 40px;
+}
+
+.rectangle{
+  border: 1px solid rgba(0, 0, 0, 0.04); 
+  width: 10rem;
+  width: 80.5rem;
+}
+
+.borderimg{
+   border: 1px solid rgba(0, 0, 0, 0.04);
+   height: 4rem;
+}
+.btntxt{
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  width: 11rem;
+  height: 4rem;
+
+
+}
+.btntxtfirst{
+  margin-left: 2.37rem;
+}
+.dropdown {
+  position: absolute;
+  top: 0;
+  left: 0;
+ width: 17rem;
+border: 1px solid rgba(0, 0, 0, 0.04);
+margin-top: -1.1rem;
+margin-left: -1rem;
+  
+}
+.logo{
+  width: 12rem;
+  margin-top: -1rem;
+  margin-left: 1rem;
+}
+
+.search{
+    margin-top: 1rem;
+    margin-left: -6rem;
+    width: 14rem;
+}
+
+.line{
+  margin-top: 0;
+}
+.spacer{
+  flex: 1;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li {
+  padding: 8px 12px;
+}
+
+li:hover {
+  background-color: rgba(0, 0, 0, 0.14);
+  cursor: pointer;
+}
+
+.bitmap {
+
+ width: 2rem;
+height: 2rem;
+border: #c84c4c;
+border-radius: 3rem;
+margin-left: -3rem;
+}
+
+.withdraw{
+  width: 6rem;
+  height: 1.5rem;
+  margin-left: 4rem;
+  margin-top: -1rem;
+  text-align: center;
+}
+
+.withdrawtxt{
+  margin-top: -0.5rem;
+
+}
+
+.balancetxt{
+  color: #a3a2a2;
+  margin-left: -6rem;
+}
